@@ -29,7 +29,7 @@ public class Metodos {
 
       limparTela();
 
-      int[] vetorOriginal = {13, 25, 43, 78, 33};
+      int[] vetorOriginal = {13, 25, 43, 78, 33}; 
       int[] vetorInvertido = obterVetorInvertido(vetorOriginal);
 
       mostrarVetor(vetorInvertido);
